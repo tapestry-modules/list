@@ -19,8 +19,14 @@ https://github.com/trsvax/tapestry-datepicker
 
 https://oss.sonatype.org/content/repositories/snapshots/  
 
+Artifact:
+
 	<groupId>com.trsvax</groupId>
 	<artifactId>tapestry-datepicker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
+### Releases
+
+there are no released versions yet.
 
 
