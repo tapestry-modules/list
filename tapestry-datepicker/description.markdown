@@ -11,7 +11,7 @@ The alternative datepicker works by adding a date translator to any textfield wi
 
 ## Source code
 
-https://github.com/trsvax/tapestry-datepicker
+[Datepicker source](https://github.com/trsvax/tapestry-datepicker)
 
 ## Jars
 
