@@ -2,7 +2,7 @@
 title: Tapestry CLI
 ---
 
-# Stuff about datepicker
+# Stuff about CLI
 
 [the clickable text](http://xlson.com/)
 

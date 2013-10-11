@@ -4,7 +4,6 @@ title: Tapestry Module list
 
 # Tapestry Modules
 
-
-* [Datepicker](tapestry-datepicker/description)
 * [CLI](tapestry-cli/description)
+* [Datepicker](tapestry-datepicker/description)
 * One more
