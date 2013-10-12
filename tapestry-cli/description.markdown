@@ -33,9 +33,9 @@ There are no released versions yet.
 
 ### Contributors
 
-Alessio Gambi
+* Alessio Gambi
 
 ### Advisory Board
 
-Thiago H de Paula Figueiredo (Tapestry Committer)
-Barry Books 
+* Thiago H de Paula Figueiredo (Tapestry Committer)  
+* Barry Books 
