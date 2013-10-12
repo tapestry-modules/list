@@ -4,11 +4,11 @@ title: Tapestry 5 Command Line Interpreter (tapestry5-cli)
 
 # Tapestry 5 Command Line Interpreter
 
-Tapestry5-cli can be used to parse the command line as specified by the user, validate the provided values, and eventually export options and other inputs provided via the command line as Symbols.
+Tapestry5-cli can be used to parse the command line as specified by the user, validate the provided values, and eventually export options and other inputs via the command line as Symbols.
 
-Tapestry5-cli leverage Apache commons-CLI for parsing the command line, tapestry-beanvalidator for validating the inputs, tapestry-IoC for collecting distributed configuration and setting up the all the rest.
+Tapestry5-cli leverages Apache commons-CLI for parsing the command line, tapestry-beanvalidator for validating the inputs, tapestry-IoC for collecting distributed configuration and setting up the all the rest.
 
-This library is exported as tapestry module, and is designed for non-Web applications that are based on Tapestry-IoC (but not Tapestry-Core!).
+This library is exported as plain tapestry-library, and is designed for non-Web applications that are based on Tapestry-IoC (but not Tapestry-Core!).
 
 
 ## Source code
