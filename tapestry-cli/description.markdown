@@ -37,7 +37,9 @@ From the Repository:
 
 There are not stable released yet.
 
-### Contributors
+## Development
+
+### Creator
 
 * Alessio Gambi
 
@@ -45,3 +47,9 @@ There are not stable released yet.
 
 * Thiago H de Paula Figueiredo (Tapestry Committer)  
 * Barry Books 
+
+## WishList/TODOs
+
+- Create a proper test suite  
+- Adopt code quality metrics and improve documentations  
+- Provide a generic driver to use with multiple commands  
