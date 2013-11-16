@@ -4,32 +4,38 @@ title: Tapestry 5 Command Line Interpreter (tapestry5-cli)
 
 # Tapestry 5 Command Line Interpreter
 
-Tapestry5-cli can be used to parse the command line as specified by the user, validate the provided values, and eventually export options and other inputs via the command line as Symbols.
+Tapestry5-cli can be used to parse the command line, validate the provided values, and eventually access
+options and inputs via specific service, similar to what is currently done with `Symbols`.
 
-Tapestry5-cli leverages Apache commons-CLI for parsing the command line, tapestry-beanvalidator for validating the inputs, tapestry-IoC for collecting distributed configuration and setting up the all the rest.
+Tapestry5-cli leverages Apache commons-CLI for parsing the command line,
+a simplified version of tapestry-beanvalidator for validating the inputs, and
+tapestry-IoC for collecting distributed configuration and setting up the all the rest.
 
-This library is exported as plain tapestry-library, and is designed for non-Web applications that are based on Tapestry-IoC (but not Tapestry-Core!).
-
+Tapestry5-cli is mainly designed for non-web applications that are based on tapestry-ioc.
 
 ## Source code
 
-[tapestry5-cli source](https://github.com/alessiogambi/tapestry5-cli)
-
-## Jars
-
-http://www.infosys.tuwien.ac.at/mvn
+Source code is available on GitHub at: [tapestry5-cli source](https://github.com/alessiogambi/tapestry5-cli)
 
 ### Snapshots
 
-Artifact:
+Maven Artifact:  
 
 	<groupId>org.gambi</groupId>
 	<artifactId>tapestry5-cli</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1-SNAPSHOT</version>
+
+From the Repository:
+
+	<repository>
+		<name>Infosys Repo</name>
+		<id>infosys-repo</id>
+		<url>http://www.infosys.tuwien.ac.at/mvn</url>
+	</repository>
 
 ### Releases
 
-There are no released versions yet.
+There are not stable released yet.
 
 ### Contributors
 
